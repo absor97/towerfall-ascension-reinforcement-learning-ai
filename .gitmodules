@@ -1,0 +1,4 @@
+[submodule "mod"]
+	path = mod
+	url = https://github.com/absor97/towerfall-ai-rl.git
+	branch = main
